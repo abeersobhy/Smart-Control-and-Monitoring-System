@@ -39,7 +39,7 @@ Here’s a short demo showing the system in action:
 ## 🖼️ Take a Quick look 
 
 <p align="right">
-  <img src="Doc/SCMS_Pic.jpg" width="550" alt="Data Transfer">
+  <img src="Doc/SCMS.jpg" width="550" alt="Data Transfer">
 </p>
 
 <p align="left">
