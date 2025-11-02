@@ -38,11 +38,11 @@ Here’s a short demo showing the system in action:
 
 ## 🖼️ Take a Quick look 
 
-<p align="right">
+<p align="center">
   <img src="Doc/SCMS_Pic.jpg" width="550" alt="Data Transfer">
 </p>
 
-<p align="left">
+<p align="center">
   <img src="Doc/PC_Display.png" width="550" alt="Data Transfer">
 </p>
 
