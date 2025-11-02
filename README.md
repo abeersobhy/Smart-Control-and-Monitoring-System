@@ -48,6 +48,30 @@ Here’s a short demo showing the system in action:
 
 ---
 
+## 🚀 How to Use
+
+1. **Connect LCD with STM32**
+   - D7 : B12
+   - D6 : B13
+   - D5 : B14
+   - D4 : B15
+   - EN : A8
+   - RS : A11
+2. **Connect IR with STM32**
+   - OUT : B11
+3. **Connect Button with STM32 as Input floating**
+   - B0 with pull up resistor
+4. **Connect LED or Relay with STM32**
+   - Relay : B5
+5. **Flash the STM32** code using STM32CubeIDE or ST-Link Utility (where the .bin & .hex files are available on Debug folder).    
+6. **Connect USB/TTL With PC and STM**
+7. **Open Serial Monitor on PC:** **CoolTerm Recommended**
+   - STM32 COM port @ `9600 baud`
+   - 8 bit data
+   - 1 stop bit
+
+---
+
 ## 🧩 System Architecture
 ```plaintext
 Project Root
