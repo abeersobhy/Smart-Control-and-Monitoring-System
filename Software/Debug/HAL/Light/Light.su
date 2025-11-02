@@ -1,0 +1,3 @@
+../HAL/Light/Light.c:11:6:Light_Init	24	static
+../HAL/Light/Light.c:33:6:Light_On	16	static
+../HAL/Light/Light.c:49:6:Light_Off	16	static

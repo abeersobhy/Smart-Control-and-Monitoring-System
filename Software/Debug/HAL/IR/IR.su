@@ -1,0 +1,2 @@
+../HAL/IR/IR.c:9:6:IR_Init	24	static
+../HAL/IR/IR.c:30:13:IR_Read_Status	16	static

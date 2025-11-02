@@ -1,0 +1,2 @@
+../HAL/PC_Display/PC_Display.c:10:6:PC_Display_Init	32	static
+../HAL/PC_Display/PC_Display.c:25:6:PC_Display_Write	16	static
