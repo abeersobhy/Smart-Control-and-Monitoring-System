@@ -29,6 +29,24 @@ a **Button (via EXTI)** for manual operation, and provides **real-time feedback*
 
 ---
 
+## 🎬 Demo Video
+Here’s a short demo showing the system in action:  
+
+🎥 [Watch the demo on YouTube](https://youtu.be/uubYdVKIsu8)
+
+---
+
+## 🖼️ Take a Quick look 
+
+<p align="right">
+  <img src="Doc/SCMS_Pic.jpg" width="550" alt="Data Transfer">
+</p>
+<p align="left">
+  <img src="Doc/PC_Display.png" width="550" alt="Data Transfer">
+</p>
+
+---
+
 ## 🧩 System Architecture
 ```plaintext
 Project Root
@@ -50,22 +68,5 @@ Project Root
 └── Application
     ├── SACS.c
     └── SACS.h
----
-
-## 🎬 Demo Video
-Here’s a short demo showing the system in action:  
-
-🎥 [Watch the demo on YouTube](https://youtu.be/uubYdVKIsu8)
-
----
-
-## 🖼️ Take a Quick look 
-
-<p align="right">
-  <img src="Doc/SCMS_Pic.jpg" width="550" alt="Data Transfer">
-</p>
-<p align="left">
-  <img src="Doc/PC_Display.png" width="550" alt="Data Transfer">
-</p>
 
 ---
