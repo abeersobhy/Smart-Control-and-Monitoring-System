@@ -69,5 +69,3 @@ Project Root
 └── Application
     ├── SACS.c
     └── SACS.h
-
----
