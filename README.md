@@ -32,17 +32,17 @@ a **Button (via EXTI)** for manual operation, and provides **real-time feedback*
 ## 🎬 Demo Video
 Here’s a short demo showing the system in action:  
 
-🎥 [Watch the demo on YouTube](https://youtu.be/uubYdVKIsu8)
+🎥 [Watch the demo on YouTube](https://youtu.be/LXUEb28txF4)
 
 ---
 
 ## 🖼️ Take a Quick look 
 
-<p align="center">
+<p align="right">
   <img src="Doc/SCMS_Pic.jpg" width="550" alt="Data Transfer">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="Doc/PC_Display.png" width="550" alt="Data Transfer">
 </p>
 
