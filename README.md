@@ -1,4 +1,4 @@
-#  Smart Control and Monitoring System
+#  Smart Light Control and Monitoring System
 
 A smart system designed to **control and monitor room lighting** both manually and automatically.  
 It uses an **IR sensor** for automatic light switching when entering or leaving the room,  
